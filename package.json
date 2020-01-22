@@ -1,0 +1,19 @@
+{
+  "name": "ommon-com-backend",
+  "version": "1.0.0",
+  "description": "Ommon.Com backend API code",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhananjay Singh Kanwar",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.9",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  }
+}
